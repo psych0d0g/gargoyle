@@ -204,8 +204,8 @@ CONFIG_TARGET_mpc85xx_generic=y
 # CONFIG_TARGET_ar71xx_generic_ZCN1523H28 is not set
 # CONFIG_TARGET_ar71xx_generic_ZCN1523H516 is not set
 # CONFIG_TARGET_ar71xx_generic_NBG_460N_550N_550NH is not set
-CONFIG_TARGET_mpc85xx_generic_Default=y
-# CONFIG_TARGET_mpc85xx_generic_TLWDR4900 is not set
+# CONFIG_TARGET_mpc85xx_generic_Default is not ser
+CONFIG_TARGET_mpc85xx_generic_TLWDR4900=y
 CONFIG_HAS_SUBTARGETS=y
 CONFIG_TARGET_BOARD="mpc85xx"
 CONFIG_TARGET_ARCH_PACKAGES="mpc85xx"
